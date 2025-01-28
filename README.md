@@ -1,6 +1,7 @@
 # Indicium Tech Code Challenge
 egm
 
+
 Code challenge for Software Developer with focus in data projects.
 
 
